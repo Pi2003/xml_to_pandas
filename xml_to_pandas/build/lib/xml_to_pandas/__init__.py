@@ -1,1 +1,0 @@
-from xml_to_pandas import xml_to_pandas
